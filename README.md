@@ -15,11 +15,11 @@
 
 </div>
 
-![Mir Abdul Rehman — Salesforce Professional, Cloud Consultant, Senior Developer and Trainer](https://capsule-render.vercel.app/api?type=rect&height=250&color=0:07111f,35:123d65,70:38216e,100:07111f&text=MIR%20ABDUL%20REHMAN&fontColor=55d8ff&fontSize=46&fontAlignY=42&desc=SALESFORCE%20%7C%20CLOUD%20%7C%20DEVELOPMENT%20%7C%20TRAINING&descAlignY=67&descSize=15&animation=fadeIn)
+![Mir Abdul Rehman — Salesforce Professional, Cloud Consultant, Developer and Trainer](assets/profile-banner.svg)
 
 ---
 
-## 👨‍💻 Professional profile
+![Professional profile — Salesforce experience and industries](assets/section-profile.svg)
 
 Salesforce professional and cloud consultant with **8.3+ years of total IT experience**, including **5.2+ years of specialized Salesforce experience**. I have worked across **five organizations**,[...]
 
@@ -27,7 +27,7 @@ I have delivered Salesforce solutions across **Telecom, Automotive, Utilities, a
 
 I have applied Salesforce AI capabilities—including **Einstein Analytics, Agentforce, and machine learning models**—to predictive intelligence, automated customer insights, and better decision[...]
 
-## 💼 Career journey
+![Career journey — roles and experience](assets/section-career.svg)
 
 | Organization | Role | Period |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ I have applied Salesforce AI capabilities—including **Einstein Analytics, Agen
 
 At Sutherland, I contributed to solutions for global clients including **Comcast, Verizon, and T-Mobile**. In my current role, I deliver online and offline Salesforce training while helping build [...]
 
-## 🛠️ Salesforce expertise
+![Salesforce expertise — development, integrations, platform and AI](assets/section-expertise.svg)
 
 <table>
   <tr>
@@ -64,7 +64,7 @@ At Sutherland, I contributed to solutions for global clients including **Comcast
   <img src="https://img.shields.io/badge/Agile-Scrum-2E8B57?style=for-the-badge" alt="Agile and Scrum" />
 </p>
 
-## 🏅 Certifications
+![Certifications — Salesforce credentials](assets/section-certifications.svg)
 
 - Salesforce Certified Administrator
 - Salesforce Platform Developer I (PD1)
@@ -72,11 +72,11 @@ At Sutherland, I contributed to solutions for global clients including **Comcast
 - Salesforce AI Specialist
 - Salesforce AI Associate
 
-## 🎓 Training & knowledge sharing
+![Training and knowledge sharing — Salesforce learning resources](assets/section-training.svg)
 
 I make Salesforce concepts practical and approachable through online and in-person training, hands-on examples, and learning resources. Explore my [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules)
 
-## ⭐ Featured projects
+![Featured projects — Salesforce work and learning resources](assets/section-projects.svg)
 
 | Project | Focus |
 | --- | --- |
@@ -85,7 +85,7 @@ I make Salesforce concepts practical and approachable through online and in-pers
 | [**Zippex**](https://github.com/SfdcTrainer007/Zippex) | Salesforce-related project |
 | [**apexClassDep**](https://github.com/SfdcTrainer007/apexClassDep) | Apex class dependency exploration |
 
-## 📊 GitHub at a glance
+![GitHub at a glance — profile statistics and languages](assets/section-stats.svg)
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SfdcTrainer007&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
