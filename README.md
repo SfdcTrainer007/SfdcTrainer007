@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm SfdcTrainer007 👋
 
-<!--
-**SfdcTrainer007/SfdcTrainer007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salesforce Developer & Trainer
 
-Here are some ideas to get you started:
+I work with Salesforce technologies and create projects and learning resources around Apex, Salesforce development, and training.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+
+- Salesforce development and Apex
+- Salesforce training modules
+- Git and developer tools
+
+## Projects
+
+- [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules) — Salesforce training resources
+- [Salesforce-Project](https://github.com/SfdcTrainer007/Salesforce-Project) — Salesforce project
+- [Zippex](https://github.com/SfdcTrainer007/Zippex) — Salesforce-related project
+- [apexClassDep](https://github.com/SfdcTrainer007/apexClassDep) — Apex class dependency project
+
+## Find me on GitHub
+
+Explore my [repositories](https://github.com/SfdcTrainer007?tab=repositories) and follow along as I build and share more Salesforce projects.
