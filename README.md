@@ -29,10 +29,11 @@ I have applied Salesforce AI capabilities—including **Einstein Analytics, Agen
 
 | Organization | Role | Period |
 | --- | --- | --- |
-| **The Smart Bridge** | Salesforce Trainer & Senior Salesforce Developer | Dec 2024 – Present |
-| **Startek (Aegis)** | Salesforce Developer | Jul 2024 – Nov 2024 |
-| **Sutherland Global Services** | Senior Salesforce Developer | Mar 2022 – May 2024 |
-| **Two earlier organizations** | Salesforce Administrator / Developer and foundational IT roles | From 2016 |
+| **The Smart Bridge** | Salesforce Developer | Dec 2024 – Till Date |
+| **Groviva** | Salesforce Developer | July 2024 – Nov 2024 |
+| **Salesforce Trainer** | Conduct online and offline classes on Salesforce Administration, Development, Integration, and Lightning Web Components (LWC) | Mar 2022 – May 2024 |
+| **Startek (Agies)** | Admin / Developer | April 2021 – Feb 2022 |
+| **Sutherland Global Services** | Salesforce Developer | April 2016 – Sep 2017 |
 
 At Sutherland, I contributed to solutions for global clients including **Comcast, Verizon, and T-Mobile**. In my current role, I deliver online and offline Salesforce training while helping build enterprise Salesforce solutions.
 
