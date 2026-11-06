@@ -6,6 +6,10 @@
 **Building scalable Salesforce solutions and helping teams grow their Salesforce expertise.**
 
 [![Salesforce](https://img.shields.io/badge/Salesforce-Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/)
+[![Trailblazer](https://img.shields.io/badge/Trailhead-Connect-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/mirabdulrahaman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mir-abdul-rehman-60716726a)
+[![Slack](https://img.shields.io/badge/Slack-Community-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://community.slack.com/team/U0CEBPL0EQP)
+
 [![GitHub followers](https://img.shields.io/github/followers/SfdcTrainer007?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/SfdcTrainer007?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=SfdcTrainer007&style=for-the-badge&color=0A66C2)](https://github.com/SfdcTrainer007)
 
@@ -15,7 +19,9 @@
 
 ## 👨‍💻 Professional profile
 
-Salesforce professional and cloud consultant with **8.3+ years of overall IT experience**, including **5.2+ years specializing in Salesforce** development, administration, architecture, and training. I work across the Salesforce lifecycle—from solution design and data modeling to implementation, integration, and enablement—bringing developer, lead, and architectural perspectives to enterprise teams.
+Salesforce professional and cloud consultant with **8.3+ years of total IT experience**, including **5.2+ years of specialized Salesforce experience** across development, customization, administration, architecture, and training. Across **five organizations**, I have grown from early administrative roles to my current position as a **Salesforce Trainer at The Smart Bridge**.
+
+I have delivered Salesforce solutions across **Telecom, Automotive, Utilities, and Financial Services**—from end-to-end implementations and integrations to custom portals, communities, data migrations, and user enablement. I partner directly with clients to gather requirements and turn business needs into secure, maintainable solutions.
 
 ## 💼 Career journey
 
@@ -24,20 +30,24 @@ Salesforce professional and cloud consultant with **8.3+ years of overall IT exp
 | **The Smart Bridge / Groviya** | Salesforce Trainer & Senior Salesforce Developer | Dec 2024 – Present |
 | **Startek (Aegis)** | Salesforce Developer | Jul 2024 – Nov 2024 |
 | **Sutherland Global Services** | Senior Salesforce Developer | Mar 2022 – May 2024 |
-| **Earlier roles** | Salesforce Admin / Developer and foundational IT experience | From 2016 |
+| **Earlier organizations** | Salesforce Administrator / Developer and foundational IT roles | From 2016 |
 
-At Sutherland, I contributed to solutions for global clients including **Comcast, Verizon, and T-Mobile**. In my current role, I deliver Salesforce training online and in person, while building core enterprise applications.
+At Sutherland, I contributed to solutions for global clients including **Comcast, Verizon, and T-Mobile**. In my current role, I deliver online and offline Salesforce training while helping build enterprise applications.
 
 ## 🛠️ Salesforce expertise
 
 <table>
   <tr>
-    <td><strong>Development</strong><br/>Apex classes & triggers · Lightning Web Components (LWC) · Visualforce · Asynchronous Apex</td>
-    <td><strong>Integration</strong><br/>REST APIs · SOAP APIs · Enterprise integrations</td>
+    <td><strong>Custom development</strong><br/>Apex classes & triggers · Asynchronous Apex · Batch Apex · Visualforce · Lightning Web Components (LWC) · JavaScript</td>
+    <td><strong>Integrations</strong><br/>REST & SOAP APIs · Middleware · External servers · Salesforce integrations</td>
   </tr>
   <tr>
-    <td><strong>Platform</strong><br/>Salesforce Administration · Data modeling · Sales Cloud · Service Cloud</td>
-    <td><strong>Emerging technology</strong><br/>Agentforce · AI capabilities · Predictive intelligence · Workflow automation</td>
+    <td><strong>Configuration & data</strong><br/>Lightning Flow · Process Builder · Validation Rules · Custom Settings · Custom Metadata · Data Loader · Data migration</td>
+    <td><strong>Architecture & security</strong><br/>Data modeling · Data security frameworks · Custom portals & communities · Sales Cloud · Service Cloud</td>
+  </tr>
+  <tr>
+    <td><strong>AI & intelligence</strong><br/>Einstein Analytics · Agentforce · Machine learning models · Predictive intelligence · Automated customer insights</td>
+    <td><strong>Delivery & leadership</strong><br/>End-to-end implementations · Agile & Scrum · Requirement gathering · Code reviews · Unit testing · Project coordination</td>
   </tr>
 </table>
 
@@ -46,6 +56,7 @@ At Sutherland, I contributed to solutions for global clients including **Comcast
   <img src="https://img.shields.io/badge/LWC-Lightning%20Web%20Components-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Lightning Web Components" />
   <img src="https://img.shields.io/badge/REST%20%2F%20SOAP-Integrations-4B6BFB?style=for-the-badge" alt="REST and SOAP integrations" />
   <img src="https://img.shields.io/badge/Agentforce-AI-6B4EFF?style=for-the-badge&logo=salesforce&logoColor=white" alt="Agentforce and AI" />
+  <img src="https://img.shields.io/badge/Agile-Scrum-2E8B57?style=for-the-badge" alt="Agile and Scrum" />
 </p>
 
 ## 🏅 Certifications
@@ -58,7 +69,7 @@ At Sutherland, I contributed to solutions for global clients including **Comcast
 
 ## 🎓 Training & knowledge sharing
 
-I enjoy making Salesforce concepts practical and approachable through online/offline training, hands-on examples, and learning resources. Explore my [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules) repository for Salesforce training content.
+I make Salesforce concepts practical and approachable through online and in-person training, hands-on examples, and learning resources. Explore my [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules) repository for Salesforce training content.
 
 ## ⭐ Featured projects
 
@@ -78,6 +89,6 @@ I enjoy making Salesforce concepts practical and approachable through online/off
 
 <div align="center">
 
-[📂 Browse all repositories](https://github.com/SfdcTrainer007?tab=repositories) · [🤝 Follow me](https://github.com/SfdcTrainer007?tab=followers)
+[📂 Browse all repositories](https://github.com/SfdcTrainer007?tab=repositories) · [🤝 Follow me](https://github.com/SfdcTrainer007?tab=followers) · [🌟 Trailblazer](https://www.salesforce.com/trailblazer/mirabdulrahaman) · [💼 LinkedIn](https://www.linkedin.com/in/mir-abdul-rehman-60716726a) · [💬 Slack](https://community.slack.com/team/U0CEBPL0EQP)
 
 </div>
