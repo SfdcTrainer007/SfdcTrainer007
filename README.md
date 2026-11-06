@@ -15,15 +15,17 @@
 
 </div>
 
+![Mir Abdul Rehman — Salesforce Professional, Cloud Consultant, Senior Developer and Trainer](https://capsule-render.vercel.app/api?type=rect&height=250&color=0:07111f,35:123d65,70:38216e,100:07111f&text=MIR%20ABDUL%20REHMAN&fontColor=55d8ff&fontSize=46&fontAlignY=42&desc=SALESFORCE%20%7C%20CLOUD%20%7C%20DEVELOPMENT%20%7C%20TRAINING&descAlignY=67&descSize=15&animation=fadeIn)
+
 ---
 
 ## 👨‍💻 Professional profile
 
-Salesforce professional and cloud consultant with **8.3+ years of total IT experience**, including **5.2+ years of specialized Salesforce experience**. I have worked across **five organizations**, progressing from early administrative roles to my current position as a **Salesforce Trainer at The Smart Bridge**.
+Salesforce professional and cloud consultant with **8.3+ years of total IT experience**, including **5.2+ years of specialized Salesforce experience**. I have worked across **five organizations**,[...]
 
-I have delivered Salesforce solutions across **Telecom, Automotive, Utilities, and Financial Services**. My experience spans development, customization, administration, end-to-end implementations, integrations, data migrations, custom portals and communities, and direct requirements gathering with clients. I bring hands-on expertise in Apex, Asynchronous and Batch Apex, Visualforce, Lightning Web Components (LWC), JavaScript, REST and SOAP APIs, middleware, and external server integrations. I also work with Lightning Flows, Process Builder, Validation Rules, Custom Settings, Custom Metadata, Data Loader, and Salesforce data security frameworks.
+I have delivered Salesforce solutions across **Telecom, Automotive, Utilities, and Financial Services**. My experience spans development, customization, administration, end-to-end implementations,[...]
 
-I have applied Salesforce AI capabilities—including **Einstein Analytics, Agentforce, and machine learning models**—to predictive intelligence, automated customer insights, and better decision-making. My delivery experience includes Agile and Scrum project management, code reviews, unit testing, and end-to-end implementation leadership.
+I have applied Salesforce AI capabilities—including **Einstein Analytics, Agentforce, and machine learning models**—to predictive intelligence, automated customer insights, and better decision[...]
 
 ## 💼 Career journey
 
@@ -35,7 +37,7 @@ I have applied Salesforce AI capabilities—including **Einstein Analytics, Agen
 | **Startek (Agies)** | Admin / Developer | April 2021 – Feb 2022 |
 | **Sutherland Global Services** | Salesforce Developer | April 2016 – Sep 2017 |
 
-At Sutherland, I contributed to solutions for global clients including **Comcast, Verizon, and T-Mobile**. In my current role, I deliver online and offline Salesforce training while helping build enterprise Salesforce solutions.
+At Sutherland, I contributed to solutions for global clients including **Comcast, Verizon, and T-Mobile**. In my current role, I deliver online and offline Salesforce training while helping build [...]
 
 ## 🛠️ Salesforce expertise
 
@@ -72,7 +74,7 @@ At Sutherland, I contributed to solutions for global clients including **Comcast
 
 ## 🎓 Training & knowledge sharing
 
-I make Salesforce concepts practical and approachable through online and in-person training, hands-on examples, and learning resources. Explore my [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules) repository for Salesforce training materials.
+I make Salesforce concepts practical and approachable through online and in-person training, hands-on examples, and learning resources. Explore my [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules)
 
 ## ⭐ Featured projects
 
