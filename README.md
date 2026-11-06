@@ -1,22 +1,52 @@
-# Hi, I'm SfdcTrainer007 👋
+<div align="center">
 
-### Salesforce Developer & Trainer
+# 👋 Hey, I'm SfdcTrainer007
 
-I work with Salesforce technologies and create projects and learning resources around Apex, Salesforce development, and training.
+### Salesforce Developer · Apex Builder · Trainer
 
-## What I work with
+I build Salesforce projects and practical learning resources that help developers turn ideas into working solutions.
 
-- Salesforce development and Apex
-- Salesforce training modules
-- Git and developer tools
+[![GitHub followers](https://img.shields.io/github/followers/SfdcTrainer007?label=Follow&style=for-the-badge&logo=github&color=181717)](https://github.com/SfdcTrainer007?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=SfdcTrainer007&style=for-the-badge&color=0A66C2)](https://github.com/SfdcTrainer007)
 
-## Projects
+</div>
 
-- [TrainingModules](https://github.com/SfdcTrainer007/TrainingModules) — Salesforce training resources
-- [Salesforce-Project](https://github.com/SfdcTrainer007/Salesforce-Project) — Salesforce project
-- [Zippex](https://github.com/SfdcTrainer007/Zippex) — Salesforce-related project
-- [apexClassDep](https://github.com/SfdcTrainer007/apexClassDep) — Apex class dependency project
+---
 
-## Find me on GitHub
+## 🚀 About me
 
-Explore my [repositories](https://github.com/SfdcTrainer007?tab=repositories) and follow along as I build and share more Salesforce projects.
+- ☁️ Focused on Salesforce development and the Apex ecosystem
+- 🧑‍🏫 Creating training modules and hands-on learning resources
+- 🛠️ Exploring developer tools, automation, and better ways to build
+- 📚 Always learning—and sharing what I learn through projects
+
+## 🧰 Tech & tools
+
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
+  <img src="https://img.shields.io/badge/Apex-1798C1?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
+
+## ⭐ Featured projects
+
+| Project | What you'll find |
+| --- | --- |
+| [**TrainingModules**](https://github.com/SfdcTrainer007/TrainingModules) | Salesforce training resources and learning modules |
+| [**Salesforce-Project**](https://github.com/SfdcTrainer007/Salesforce-Project) | A Salesforce-focused project |
+| [**Zippex**](https://github.com/SfdcTrainer007/Zippex) | A Salesforce-related project |
+| [**apexClassDep**](https://github.com/SfdcTrainer007/apexClassDep) | Apex class dependency exploration |
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SfdcTrainer007&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SfdcTrainer007&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages" />
+</div>
+
+<div align="center">
+
+[📂 Browse all repositories](https://github.com/SfdcTrainer007?tab=repositories) · [🤝 Follow me](https://github.com/SfdcTrainer007?tab=followers)
+
+</div>
