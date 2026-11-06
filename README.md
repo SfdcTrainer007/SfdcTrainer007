@@ -27,7 +27,7 @@ I have delivered Salesforce solutions across **Telecom, Automotive, Utilities, a
 
 | Organization | Role | Period |
 | --- | --- | --- |
-| **The Smart Bridge / Groviya** | Salesforce Trainer & Senior Salesforce Developer | Dec 2024 – Present |
+| **The Smart Bridge** | Salesforce Trainer & Senior Salesforce Developer | Dec 2024 – Present |
 | **Startek (Aegis)** | Salesforce Developer | Jul 2024 – Nov 2024 |
 | **Sutherland Global Services** | Senior Salesforce Developer | Mar 2022 – May 2024 |
 | **Earlier organizations** | Salesforce Administrator / Developer and foundational IT roles | From 2016 |
